@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_Calendar</title>
+    <g id="V2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Dashboard+Ticket-tooltip" transform="translate(-753.000000, -319.000000)" stroke="#9599B6">
+            <g id="Push-Notif" transform="translate(730.000000, 257.000000)">
+                <g id="calendar" transform="translate(24.000000, 63.000000)">
+                    <path d="M2.7826087,1.39130435 L2.08695652,1.39130435 C0.93426087,1.39130435 0,2.32556522 0,3.47826087 L0,13.9130435 C0,15.0657391 0.93426087,16 2.08695652,16 L13.9130435,16 C15.0657391,16 16,15.0657391 16,13.9130435 L16,3.47826087 C16,2.32556522 15.0657391,1.39130435 13.9130435,1.39130435 L13.2173913,1.39130435" id="Stroke-2961"></path>
+                    <line x1="0" y1="4.86956522" x2="16" y2="4.86956522" id="Stroke-2963"></line>
+                    <line x1="4.17391304" y1="2.7826087" x2="4.17391304" y2="0" id="Stroke-2964"></line>
+                    <line x1="11.826087" y1="2.7826087" x2="11.826087" y2="0" id="Stroke-2965"></line>
+                    <line x1="5.56521739" y1="1.39130435" x2="10.4347826" y2="1.39130435" id="Stroke-2962"></line>
+                    <line x1="4.17391304" y1="7.30434783" x2="11.826087" y2="7.30434783" id="Stroke-2962-Copy"></line>
+                    <line x1="4.17391304" y1="10.0869565" x2="11.826087" y2="10.0869565" id="Stroke-2962-Copy-2"></line>
+                    <line x1="4.17391304" y1="12.8695652" x2="11.826087" y2="12.8695652" id="Stroke-2962-Copy-3"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

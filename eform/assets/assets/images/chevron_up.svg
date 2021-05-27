@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/ChevronUp</title>
+    <g id="V2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Push-Notifications-2-1_Drafts" transform="translate(-1094.000000, -653.000000)" fill="#92929D">
+            <g id="Column-3" transform="translate(592.000000, 223.000000)">
+                <g id="Forms" transform="translate(0.000000, 246.000000)">
+                    <g id="Announcement" transform="translate(0.000000, 160.000000)">
+                        <g id="Group" transform="translate(496.000000, 16.000000)">
+                            <g id="Icon/ChevronDown" transform="translate(12.000000, 12.000000) scale(1, -1) translate(-12.000000, -12.000000) ">
+                                <path d="M12,13.5857864 L16.2928932,9.29289322 C16.6834175,8.90236893 17.3165825,8.90236893 17.7071068,9.29289322 C18.0976311,9.68341751 18.0976311,10.3165825 17.7071068,10.7071068 L12.7071068,15.7071068 C12.3165825,16.0976311 11.6834175,16.0976311 11.2928932,15.7071068 L6.29289322,10.7071068 C5.90236893,10.3165825 5.90236893,9.68341751 6.29289322,9.29289322 C6.68341751,8.90236893 7.31658249,8.90236893 7.70710678,9.29289322 L12,13.5857864 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

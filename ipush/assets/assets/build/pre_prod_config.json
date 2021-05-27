@@ -1,0 +1,16 @@
+{
+  "appId": "com.inglab.istudio_console_web_flut.preprod",
+  "versionCode": 1,
+  "versionName": "1.0.2",
+  "releaseVersion": "1.0.0",
+  "name": "iStudio PRE PROD",
+  "oneSignalAppId": "75d5afbb-61b0-4400-9fd9-ea15e14b2285",
+  "oneSignalAppRESTKey": "",
+  "baseURL": "http://inglabcloud.hopto.org:6080/nesternship",
+  "appCenterKeyAndroid": "<Your AppCenter Key here>",
+  "sessionTokenName": "token",
+  "dbName": "nesternship",
+  "dataEncrypt": false,
+  "iOSp12Password" : "Nesternship2021",
+  "apiKey": "7bbd31de-e2e5-4bd3-83d4-113397b5eeb6"
+}
