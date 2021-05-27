@@ -23300,12 +23300,16 @@ this.b=b},
 aKG:function aKG(a){this.a=a},
 aKD:function aKD(a,b){this.a=a
 this.b=b},
-i1:function i1(a,b,c){this.c=a
-this.d=b
-this.a=c},
-y0:function y0(a,b,c){this.c=a
-this.d=b
-this.a=c},
+i1:function i1(a,b,c,d){var _=this
+_.c=a
+_.d=b
+_.e=c
+_.a=d},
+y0:function y0(a,b,c,d){var _=this
+_.c=a
+_.d=b
+_.e=c
+_.a=d},
 lu:function lu(a,b){this.c=a
 this.a=b},
 a20:function a20(a,b){var _=this
@@ -27948,8 +27952,9 @@ aHU:function aHU(a,b){this.a=a
 this.b=b},
 aHV:function aHV(a,b){this.a=a
 this.b=b},
-Hv:function Hv(a,b){this.c=a
-this.a=b},
+Hv:function Hv(a,b,c){this.c=a
+this.d=b
+this.a=c},
 apu:function apu(a){this.a=a},
 EL:function EL(a,b){this.c=a
 this.a=b},
@@ -95814,54 +95819,54 @@ $2:function(a,b){var s=null
 return new T.K0(b,H.a([new T.fZ(480,"MOBILE",C.eF,1),new T.fZ(800,"TABLET",C.dE,1),new T.fZ(1000,"DESKTOP",C.eF,1)],t.ym),480,s,s,!0,1,M.w(s,s,C.d,new P.t(4294309365),s,s,s,s,s,s,s,s,s,s),s,s,!1,C.cO,!1,s)},
 $S:230}
 O.aZO.prototype={
-$2$variable:function(a,b){return new Z.i1("/pushNotification",new X.vy(null),null)},
+$2$variable:function(a,b){return new Z.i1("/pushNotification",new X.vy(null),"iPush",null)},
 $1:function(a){return this.$2$variable(a,null)},
 $C:"$2$variable",
 $D:function(){return{variable:null}},
 $S:63}
 O.aZH.prototype={
-$2$variable:function(a,b){return new Z.y0("/pushNotification",new X.vy(null),null)},
+$2$variable:function(a,b){return new Z.y0("/pushNotification",new X.vy(null),"iPush",null)},
 $1:function(a){return this.$2$variable(a,null)},
 $C:"$2$variable",
 $D:function(){return{variable:null}},
 $S:591}
 O.aZI.prototype={
-$2$variable:function(a,b){var s=null,r="/pushNotification"
-if(b==null||b.length===0)return new Z.i1(r,new X.vy(s),s)
-if(J.mV(b,"create"))return new Z.i1("/pushNotification/create",new S.Iq(s),s)
-if(C.c.I(b,"schedule"))return new Z.i1("/pushNotification/schedule",new X.EI(s),s)
-if(C.c.I(b,"pending"))return new Z.i1("/pushNotification/pending",new O.J_(s),s)
-return new Z.i1(r,new X.vy(s),s)},
+$2$variable:function(a,b){var s=null,r="iPush",q="/pushNotification"
+if(b==null||b.length===0)return new Z.i1(q,new X.vy(s),r,s)
+if(J.mV(b,"create"))return new Z.i1("/pushNotification/create",new S.Iq(s),r,s)
+if(C.c.I(b,"schedule"))return new Z.i1("/pushNotification/schedule",new X.EI(s),r,s)
+if(C.c.I(b,"pending"))return new Z.i1("/pushNotification/pending",new O.J_(s),r,s)
+return new Z.i1(q,new X.vy(s),r,s)},
 $1:function(a){return this.$2$variable(a,null)},
 $C:"$2$variable",
 $D:function(){return{variable:null}},
 $S:63}
 O.aZJ.prototype={
-$2$variable:function(a,b){return new Z.i1("/pushNotification/create",new S.Iq(null),null)},
+$2$variable:function(a,b){return new Z.i1("/pushNotification/create",new S.Iq(null),"iPush",null)},
 $1:function(a){return this.$2$variable(a,null)},
 $C:"$2$variable",
 $D:function(){return{variable:null}},
 $S:63}
 O.aZK.prototype={
-$2$variable:function(a,b){return new Z.i1("/pushNotification/schedule",new X.EI(null),null)},
+$2$variable:function(a,b){return new Z.i1("/pushNotification/schedule",new X.EI(null),"iPush",null)},
 $1:function(a){return this.$2$variable(a,null)},
 $C:"$2$variable",
 $D:function(){return{variable:null}},
 $S:63}
 O.aZL.prototype={
-$2$variable:function(a,b){return new Z.i1("/pushNotification/pending",new O.J_(null),null)},
+$2$variable:function(a,b){return new Z.i1("/pushNotification/pending",new O.J_(null),"iPush",null)},
 $1:function(a){return this.$2$variable(a,null)},
 $C:"$2$variable",
 $D:function(){return{variable:null}},
 $S:63}
 O.aZM.prototype={
-$2$variable:function(a,b){return new Z.i1("/dashboard",new Y.ZA(null),null)},
+$2$variable:function(a,b){return new Z.i1("/dashboard",new Y.ZA(null),"iPush",null)},
 $1:function(a){return this.$2$variable(a,null)},
 $C:"$2$variable",
 $D:function(){return{variable:null}},
 $S:63}
 O.aZN.prototype={
-$2$variable:function(a,b){return new Z.i1("/dashboard",new A.a_d(null),null)},
+$2$variable:function(a,b){return new Z.i1("/dashboard",new A.a_d(null),"iPush",null)},
 $1:function(a){return this.$2$variable(a,null)},
 $C:"$2$variable",
 $D:function(){return{variable:null}},
@@ -100178,8 +100183,8 @@ $S:688}
 K.Hv.prototype={
 v:function(a,b){return new Z.lu(new Y.ma(new K.apu(this),null),null)}}
 K.apu.prototype={
-$2:function(a,b){var s=null,r=E.k().w(0,$.bO()),q=t.t
-return M.w(C.p,new T.c4(C.P,C.p,C.d,new T.ba(new V.N(220,61,220,61),T.ae(H.a([new K.EL(this.a.c,s),Z.am(C.e,s,100),T.aB(H.a([T.ae(H.a([L.bL("istudio.svg",E.k().w(0,$.c3()),C.av,50,50),Z.am(C.e,s,20),L.I("iStudio",s,s,s,s,E.k().ig(0,$.bx(),"Patinio",40),s,s,s)],q),C.l,C.i,C.k,s,s,C.j),T.ar(U.Vb("assets/images/login.png",C.p,s,s,s,!1,C.aH,s,!1,s,!1,C.aD,s,s,s),400,463),T.ar(L.I("Helping you build a lasting brand",s,s,s,s,E.k().bB(0,$.aS(),32),C.b3,s,s),s,463),Z.S(C.e,20,s),T.ar(L.I("We help you manage your marketing strategies easier and more effective than ever before.",s,s,s,s,E.k().bB(0,$.X(),21),C.b3,s,s),s,463)],q),C.l,C.i,C.x,s,s,C.j)],q),C.l,C.i,C.x,s,s,C.j),s),s),C.d,r,s,s,s,1/0,s,s,s,s,s,1/0)},
+$2:function(a,b){var s=null,r=E.k().w(0,$.bO()),q=this.a,p=Z.am(C.e,s,100),o=L.bL("istudio.svg",E.k().w(0,$.c3()),C.av,50,50),n=Z.am(C.e,s,20),m=t.t
+return M.w(C.p,new T.c4(C.P,C.p,C.d,new T.ba(new V.N(220,61,220,61),T.ae(H.a([new K.EL(q.c,s),p,T.aB(H.a([T.ae(H.a([o,n,L.I(q.d,s,s,s,s,E.k().ig(0,$.bx(),"Patinio",40),s,s,s)],m),C.l,C.i,C.k,s,s,C.j),T.ar(U.Vb("assets/images/login.png",C.p,s,s,s,!1,C.aH,s,!1,s,!1,C.aD,s,s,s),400,463),T.ar(L.I("Helping you build a lasting brand",s,s,s,s,E.k().bB(0,$.aS(),32),C.b3,s,s),s,463),Z.S(C.e,20,s),T.ar(L.I("We help you manage your marketing strategies easier and more effective than ever before.",s,s,s,s,E.k().bB(0,$.X(),21),C.b3,s,s),s,463)],m),C.l,C.i,C.x,s,s,C.j)],m),C.l,C.i,C.x,s,s,C.j),s),s),C.d,r,s,s,s,1/0,s,s,s,s,s,1/0)},
 $C:"$2",
 $R:2,
 $S:129}
@@ -100390,10 +100395,10 @@ if(r!=null)for(r=P.bG(r,r.r,H.x(r).c);r.u();)r.d.sbI(0,s)
 this.aY()}}
 Z.i1.prototype={
 v:function(a,b){if(new U.ox().ga1y())return this.d
-return new K.Hv(this.c,null)}}
+return new K.Hv(this.c,this.e,null)}}
 Z.y0.prototype={
 v:function(a,b){if(new U.ox().ga1y())return this.d
-return new K.Hv(this.c,null)}}
+return new K.Hv(this.c,this.e,null)}}
 Z.lu.prototype={
 K:function(){return new Z.a20(P.aw(0,0,0,0,0,1),C.m)},
 cV:function(a){return"iStudio".$0()}}
