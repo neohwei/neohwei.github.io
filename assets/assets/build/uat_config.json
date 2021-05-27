@@ -1,0 +1,16 @@
+{
+  "appId": "com.inglab.istudio_console_web_flut.uat",
+  "versionCode": 1,
+  "versionName": "1.0.1",
+  "releaseVersion": "1.0.0",
+  "name": "iStudio UAT",
+  "oneSignalAppId": "",
+  "oneSignalAppRESTKey": "",
+  "baseURL": "http://inglabcloud.hopto.org:6080/nesternship",
+  "appCenterKeyAndroid": "<Your AppCenter Key here>",
+  "sessionTokenName": "token",
+  "dbName": "nesternship",
+  "dataEncrypt": false,
+  "iOSp12Password" : "Nesternship2021",
+  "apiKey": "2ea1b690-4b8c-43a5-be1a-775247f02b26"
+}
