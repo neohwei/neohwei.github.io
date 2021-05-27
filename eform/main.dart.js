@@ -32967,8 +32967,9 @@ aHP:function aHP(){},
 aHQ:function aHQ(a){this.a=a},
 aHO:function aHO(a,b){this.a=a
 this.b=b},
-X3:function X3(a,b){this.c=a
-this.a=b},
+X3:function X3(a,b,c){this.c=a
+this.d=b
+this.a=c},
 arA:function arA(a){this.a=a},
 EN:function EN(a,b){this.c=a
 this.a=b},
@@ -33633,9 +33634,11 @@ this.a=b},
 a6R:function a6R(a){this.a=null
 this.b=a
 this.c=null},
-n6:function n6(a,b,c){this.c=a
-this.d=b
-this.a=c},
+n6:function n6(a,b,c,d){var _=this
+_.c=a
+_.d=b
+_.e=c
+_.a=d},
 kM:function kM(a,b,c){this.c=a
 this.d=b
 this.a=c},
@@ -96890,7 +96893,7 @@ $2:function(a,b){var s=null
 return new T.Kh(b,H.a([new T.h2(480,"MOBILE",C.eR,1),new T.h2(800,"TABLET",C.dP,1),new T.h2(1000,"DESKTOP",C.eR,1)],t.ym),480,s,s,!0,1,M.K(s,s,C.e,new P.o(4294309365),s,s,s,s,s,s,s,s,s,s),s,s,!1,C.c6,!1,s)},
 $S:320}
 Q.b_n.prototype={
-$2$variable:function(a,b){return new Z.n6("/",new V.GM(null),null)},
+$2$variable:function(a,b){return new Z.n6("/",new V.GM(null),"iForm",null)},
 $1:function(a){return this.$2$variable(a,null)},
 $C:"$2$variable",
 $D:function(){return{variable:null}},
@@ -96909,7 +96912,7 @@ $C:"$4",
 $R:4,
 $S:127}
 Q.b_g.prototype={
-$2$variable:function(a,b){return new Z.n6("/eform/dashboard",new V.GM(null),null)},
+$2$variable:function(a,b){return new Z.n6("/eform/dashboard",new V.GM(null),"iForm",null)},
 $1:function(a){return this.$2$variable(a,null)},
 $C:"$2$variable",
 $D:function(){return{variable:null}},
@@ -96928,19 +96931,19 @@ $C:"$4",
 $R:4,
 $S:127}
 Q.b_i.prototype={
-$2$variable:function(a,b){return new Z.n6("/eform/create",new T.Vp(null),null)},
+$2$variable:function(a,b){return new Z.n6("/eform/create",new T.Vp(null),"iForm",null)},
 $1:function(a){return this.$2$variable(a,null)},
 $C:"$2$variable",
 $D:function(){return{variable:null}},
 $S:92}
 Q.b_j.prototype={
-$2$variable:function(a,b){return new Z.n6("/eform/share",new K.Vy(null),null)},
+$2$variable:function(a,b){return new Z.n6("/eform/share",new K.Vy(null),"iForm",null)},
 $1:function(a){return this.$2$variable(a,null)},
 $C:"$2$variable",
 $D:function(){return{variable:null}},
 $S:92}
 Q.b_k.prototype={
-$2$variable:function(a,b){return new Z.n6("/eform/report",new N.Vz(null),null)},
+$2$variable:function(a,b){return new Z.n6("/eform/report",new N.Vz(null),"iForm",null)},
 $1:function(a){return this.$2$variable(a,null)},
 $C:"$2$variable",
 $D:function(){return{variable:null}},
@@ -103084,8 +103087,8 @@ $S:710}
 K.X3.prototype={
 v:function(a,b){return new Z.kM(new Y.kc(new K.arA(this),null),"iStudio",null)}}
 K.arA.prototype={
-$2:function(a,b){var s=null,r=E.k().w(0,$.cy()),q=t.t
-return M.K(C.p,T.cz(C.p,new T.aC(new V.P(220,61,220,61),T.aT(H.a([new K.EN(this.a.c,s),Z.aY(C.i,s,100),T.aK(H.a([T.aT(H.a([L.dP("istudio.svg",E.k().w(0,$.bQ()),C.dn,50,50),Z.aY(C.i,s,20),L.U("iStudio",s,s,s,s,E.k().Ed(0,$.dk(),"Patinio",40),s,s,s)],q),C.m,C.h,C.k,s,s,C.j),T.a4(U.b29("assets/images/login.png",C.p,s,s,s,!1,C.cd,s,!1,s,!1,C.bu,s,s,s),400,463),T.a4(L.U("Helping you build a lasting brand",s,s,s,s,E.k().bZ(0,$.b4(),32),C.a5,s,s),s,463),new Z.aV(20,s,s,s,C.i,s),T.a4(L.U("We help you manage your marketing strategies easier and more effective than ever before.",s,s,s,s,E.k().bZ(0,$.ai(),21),C.a5,s,s),s,463)],q),C.m,C.h,C.B,s,s,C.j)],q),C.m,C.h,C.B,s,s,C.j),s),C.e,C.U),C.e,r,s,s,s,1/0,s,s,s,s,s,1/0)},
+$2:function(a,b){var s=null,r=E.k().w(0,$.cy()),q=this.a,p=Z.aY(C.i,s,100),o=L.dP("istudio.svg",E.k().w(0,$.bQ()),C.dn,50,50),n=Z.aY(C.i,s,20),m=t.t
+return M.K(C.p,T.cz(C.p,new T.aC(new V.P(220,61,220,61),T.aT(H.a([new K.EN(q.c,s),p,T.aK(H.a([T.aT(H.a([o,n,L.U(q.d,s,s,s,s,E.k().Ed(0,$.dk(),"Patinio",40),s,s,s)],m),C.m,C.h,C.k,s,s,C.j),T.a4(U.b29("assets/images/login.png",C.p,s,s,s,!1,C.cd,s,!1,s,!1,C.bu,s,s,s),400,463),T.a4(L.U("Helping you build a lasting brand",s,s,s,s,E.k().bZ(0,$.b4(),32),C.a5,s,s),s,463),new Z.aV(20,s,s,s,C.i,s),T.a4(L.U("We help you manage your marketing strategies easier and more effective than ever before.",s,s,s,s,E.k().bZ(0,$.ai(),21),C.a5,s,s),s,463)],m),C.m,C.h,C.B,s,s,C.j)],m),C.m,C.h,C.B,s,s,C.j),s),C.e,C.U),C.e,r,s,s,s,1/0,s,s,s,s,s,1/0)},
 $C:"$2",
 $R:2,
 $S:71}
@@ -103294,7 +103297,7 @@ this.aY()}}
 Z.n6.prototype={
 v:function(a,b){if($.jw==null)Y.lD("NUIAuth",u.P)
 if($.jw.ra()!=null)return this.d
-return new K.X3(this.c,null)}}
+return new K.X3(this.c,this.e,null)}}
 Z.kM.prototype={
 N:function(){return new Z.a2U(P.ay(0,0,0,0,1),C.n)},
 cU:function(a){return this.d.$0()}}
