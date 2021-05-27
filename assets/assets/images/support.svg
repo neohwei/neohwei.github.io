@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Support</title>
+    <g id="V2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Dashboard---dropdown" transform="translate(-1137.000000, -215.000000)" stroke="#9599B6">
+            <g id="Expand" transform="translate(1112.500000, 61.000000)">
+                <g id="Support" transform="translate(23.500000, 153.000000)">
+                    <g id="Group-9" transform="translate(2.000000, 2.000000)">
+                        <path d="M16,8 C16,12.418087 12.418087,16 8,16 C3.58191304,16 0,12.418087 0,8 C0,3.58191304 3.58191304,0 8,0 C12.418087,0 16,3.58191304 16,8 Z" id="Stroke-6859"></path>
+                        <path d="M11.826087,8 C11.826087,10.1133913 10.1133913,11.826087 8,11.826087 C5.8866087,11.826087 4.17391304,10.1133913 4.17391304,8 C4.17391304,5.8866087 5.8866087,4.17391304 8,4.17391304 C10.1133913,4.17391304 11.826087,5.8866087 11.826087,8 Z" id="Stroke-6860"></path>
+                        <line x1="4.17391304" y1="6.95652174" x2="1.39130435" y2="4.17391304" id="Stroke-6861"></line>
+                        <line x1="6.5" y1="4.5" x2="3.5" y2="1.5" id="Stroke-6862"></line>
+                        <line x1="11.826087" y1="14.6086957" x2="9.04347826" y2="11.826087" id="Stroke-6863"></line>
+                        <line x1="14.5" y1="12.5" x2="11.5" y2="9.5" id="Stroke-6864"></line>
+                        <line x1="4.17391304" y1="9.73913043" x2="1.39130435" y2="12.5217391" id="Stroke-6865"></line>
+                        <line x1="6.26086957" y1="11.826087" x2="3.47826087" y2="14.6086957" id="Stroke-6866"></line>
+                        <line x1="12.7826087" y1="2" x2="10" y2="4.7826087" id="Stroke-6867"></line>
+                        <line x1="14.7826087" y1="4" x2="12" y2="6.7826087" id="Stroke-6868"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
