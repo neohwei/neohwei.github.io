@@ -31699,7 +31699,7 @@ js:function js(){this.a=null},
 YK:function YK(){},
 ayI:function ayI(){},
 ayJ:function ayJ(){},
-bvv:function(){var s,r,q,p,o,n,m,l,k,j="http://inglabcloud.hopto.org/istudio",i=null
+bvv:function(){var s,r,q,p,o,n,m,l,k,j="http://inglabcloud.hopto.org:6080/istudioapi",i=null
 $.b6C=j
 s=new N.ato()
 s.a="NUIAppStringConfigs"
@@ -95874,14 +95874,14 @@ $S:63}
 O.fY.prototype={
 gtr:function(){var s=0,r=P.D(t.oZ),q,p=this
 var $async$gtr=P.z(function(a,b){if(a===1)return P.A(b,r)
-while(true)switch(s){case 0:q=p.my("http://inglabcloud.hopto.org/istudio/users")
+while(true)switch(s){case 0:q=p.my("http://inglabcloud.hopto.org:6080/istudioapi/users")
 s=1
 break
 case 1:return P.B(q,r)}})
 return P.C($async$gtr,r)},
 gdq:function(){var s=0,r=P.D(t.oZ),q,p=this
 var $async$gdq=P.z(function(a,b){if(a===1)return P.A(b,r)
-while(true)switch(s){case 0:q=p.my("http://inglabcloud.hopto.org/istudio/push")
+while(true)switch(s){case 0:q=p.my("http://inglabcloud.hopto.org:6080/istudioapi/push")
 s=1
 break
 case 1:return P.B(q,r)}})
@@ -95890,7 +95890,7 @@ qU:function(a){return this.aFy(a)},
 aFy:function(a){var s=0,r=P.D(t.qm),q,p,o,n,m,l,k,j,i,h,g
 var $async$qU=P.z(function(b,c){if(b===1)return P.A(c,r)
 while(true)switch(s){case 0:P.aG("PushService: Trying to upload a file from path : "+a.a)
-p=P.hY("https://myhondauat.honda.net.my/honda-api/push/upload-image")
+p=P.hY("http://inglabcloud.hopto.org:6080/istudioapi/push/upload-image")
 s=3
 return P.u(a.EM(),$async$qU)
 case 3:o=c

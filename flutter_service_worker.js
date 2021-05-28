@@ -17,7 +17,6 @@ const RESOURCES = {
 "assets/assets/fonts/lato_semibold.ttf": "3c6cfb1aebd888a0eb4c8fba94140fa6",
 "assets/assets/fonts/lato_thinitalic.ttf": "4ac7208bbe0e3593ce9464f013607751",
 "assets/assets/fonts/patinio.ttf": "aec9e9bf09c7353301274c5a05d53854",
-"assets/assets/icon/AppleAndroid.ttf": "80021d53b0bbecc1b73af81642f8e93b",
 "assets/assets/images/alert_silent.svg": "43f6b9a013a58b3770bb42a3ec39e883",
 "assets/assets/images/alert_sound.svg": "0f0c9b7d229422433cfddfce17eb31b1",
 "assets/assets/images/android.svg": "64d1843e667f957a2784a74523ef08f3",
@@ -149,7 +148,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "1a458a014b8632521e6929013f4347bc",
 "/": "1a458a014b8632521e6929013f4347bc",
-"main.dart.js": "fc2416c28bfe8178263b884438ba80b0",
+"main.dart.js": "84e4df8f45aa8ce3c18158b9c927bc15",
 "manifest.json": "6af49fec1dd063a55cfede64959d0bf6",
 "nuiapp.js": "61a725f5e14940d6689216e6717bc699",
 "version.json": "e020ff8469c8884b34101c6986077067"
