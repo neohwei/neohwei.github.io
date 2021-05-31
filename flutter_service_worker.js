@@ -152,7 +152,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "1a458a014b8632521e6929013f4347bc",
 "/": "1a458a014b8632521e6929013f4347bc",
-"main.dart.js": "4ebd2efc037d72543460d9bd8a9170fb",
+"main.dart.js": "a7d8f53e9a35b3a9433f0eb439ed7e1a",
 "manifest.json": "6af49fec1dd063a55cfede64959d0bf6",
 "nuiapp.js": "61a725f5e14940d6689216e6717bc699",
 "version.json": "e020ff8469c8884b34101c6986077067"
