@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Approved</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dashboard" transform="translate(-819.000000, -554.000000)">
+            <g id="Stats---Approved" transform="translate(781.000000, 510.000000)">
+                <g id="Icon" transform="translate(24.000000, 30.000000)">
+                    <g id="Approved" transform="translate(14.000000, 14.000000)">
+                        <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                        <path d="M13.9008953,19.0406146 L8.8136196,14.5568583 C7.93320172,13.7808872 6.51494586,13.7890867 5.64585646,14.5751726 C4.77676707,15.3612585 4.78595062,16.6275559 5.6663685,17.403527 L12.4964374,23.4233235 C13.4328112,24.2486124 14.9604128,24.1789995 15.7978136,23.2728796 L26.8876948,11.2729365 C27.675054,10.4209646 27.5397945,9.16041249 26.5855842,8.4574145 C25.6313739,7.75441651 24.2195527,7.87518369 23.4321934,8.72715554 L13.9008953,19.0406146 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

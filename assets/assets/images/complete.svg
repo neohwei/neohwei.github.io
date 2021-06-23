@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Complete</title>
+    <defs>
+        <path d="M16,0 C24.836556,-1.623249e-15 32,7.163444 32,16 C32,24.836556 24.836556,32 16,32 C7.163444,32 1.082166e-15,24.836556 0,16 C-1.082166e-15,7.163444 7.163444,1.623249e-15 16,0 Z" id="path-1"></path>
+        <filter x="-87.5%" y="-62.5%" width="275.0%" height="275.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.584304472   0 0 0 0 0.598793111   0 0 0 0 0.714702219  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="New-Claim-3-2_Details-Filled" transform="translate(-1180.000000, -892.000000)">
+            <g id="Medical" transform="translate(233.000000, 860.000000)">
+                <g id="Status" transform="translate(885.000000, 40.000000)">
+                    <g id="Complete" transform="translate(78.000000, 0.000000)">
+                        <g id="Rectangle-11">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#22DE86" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <path d="M19.7384732,11.7094671 C20.2671205,11.1968395 21.1112405,11.209826 21.6238682,11.7384732 C22.1364958,12.2671205 22.1235094,13.1112405 21.5948621,13.6238682 L14.7198621,20.2905348 C14.2026795,20.7920453 13.3806558,20.7920453 12.8634732,20.2905348 L9.73847321,17.2602318 C9.20982596,16.7476042 9.19683949,15.9034841 9.70946713,15.3748368 C10.2220948,14.8461896 11.0662149,14.8332031 11.5948621,15.3458308 L13.7916677,17.4760665 L19.7384732,11.7094671 Z" id="Shape" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

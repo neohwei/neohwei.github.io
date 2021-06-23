@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_Email</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.674510 0 0 0 0 0.356863 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="New-Claim-1-1_ChooseEvent" transform="translate(-795.000000, -636.000000)">
+            <g id="Detail" transform="translate(233.000000, 487.000000)">
+                <g id="Detail-4" transform="translate(562.000000, 144.000000)">
+                    <g id="Group" transform="translate(0.000000, 3.000000)">
+                        <rect id="Rectangle" x="0" y="0" width="16" height="16"></rect>
+                        <g filter="url(#filter-1)" id="Mail" stroke-linecap="round" stroke-linejoin="round">
+                            <g transform="translate(1.000000, 3.000000)">
+                                <path d="M14,0.526315789 C14,0.235789474 13.7837241,0 13.5172414,0 L0.482758621,0 C0.216275862,0 0,0.235789474 0,0.526315789 L0,9.47368421 C0,9.76421053 0.216275862,10 0.482758621,10 L13.5172414,10 C13.7837241,10 14,9.76421053 14,9.47368421 L14,0.526315789 Z" id="Stroke-1270" stroke="#000000"></path>
+                                <path d="M14,1 L7.85028249,5.66666667 L7.74646893,5.74242424 C7.30155367,6.08585859 6.69844633,6.08585859 6.24858757,5.74242424 L6.14477401,5.66666667 L0,1" id="Stroke-1271" stroke="#000000"></path>
+                                <line x1="4.92457751" y1="4.87401051" x2="0" y2="9" id="Stroke-1272" stroke="#000000"></line>
+                                <line x1="14" y1="9" x2="8.99194335" y2="4.87401051" id="Stroke-1273" stroke="#000000"></line>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

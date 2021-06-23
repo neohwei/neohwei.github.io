@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_phone</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.674510 0 0 0 0 0.356863 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="New-Claim-1-1_ChooseEvent" transform="translate(-559.000000, -634.000000)">
+            <g id="Detail" transform="translate(233.000000, 487.000000)">
+                <g id="Detail-3" transform="translate(326.000000, 144.000000)">
+                    <g id="Phone" transform="translate(0.000000, 3.000000)" filter="url(#filter-1)">
+                        <g transform="translate(1.000000, 1.000000)">
+                            <path d="M7.91244892,10.6521739 L9.43478261,9.3526087 C9.64052174,9.14747826 9.94486957,9.07869565 10.2108696,9.17 C11.0630435,9.45182609 12.2956522,9.73913043 13.2391304,9.73913043 C13.6573043,9.73913043 14,10.0818261 14,10.5 L14,13.2391304 C14,13.657913 13.6573043,14 13.2391304,14 C6.09486957,14 0,7.90573913 0,0.760869565 C0,0.342695652 0.342695652,0 0.760869565,0 L3.5,0 C3.91817391,0 4.26086957,0.342695652 4.26086957,0.760869565 C4.26086957,1.71226087 4.5673274,3.32145537 5.09196932,4.01738537 C5.17536063,4.28399407 5.11449106,4.58042885 4.90144758,4.79347233 L3.5,6.20063482 C4.59565217,8.35420003 5.7594924,9.54921739 7.91244892,10.6521739 Z" id="Stroke-54" stroke="#000000"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

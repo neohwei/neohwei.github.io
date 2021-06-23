@@ -1,6 +1,6 @@
 {
-    "name": "istudio_console_web_flut",
-    "short_name": "istudio_console_web_flut",
+    "name": "flutter_web",
+    "short_name": "flutter_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

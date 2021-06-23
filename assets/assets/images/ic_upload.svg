@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_Upload</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="New-Claim-3-3_Upload-Documents" transform="translate(-1197.000000, -352.000000)" stroke="#00AC5B">
+            <g id="Dialogue" transform="translate(231.000000, 221.000000)">
+                <g id="Item-1" transform="translate(545.000000, 107.000000)">
+                    <g id="Group-10" transform="translate(400.000000, 24.500000)">
+                        <g id="ic_Upload" transform="translate(22.000000, 0.000000)">
+                            <line x1="7.72413793" y1="12.6896552" x2="7.72413793" y2="0" id="Stroke-14245"></line>
+                            <polyline id="Stroke-14246" points="3.31034483 4.4137931 7.72413793 0 12.137931 4.4137931"></polyline>
+                            <polyline id="Stroke-14247" points="0 12.137931 0 16 15.4482759 16 15.4482759 12.137931"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
